@@ -1,11 +1,4 @@
-import tkinter as tk
-from tkinter import ttk
-from tkinter import filedialog
-from PIL import Image, ImageTk
-import numpy as np
-import os
-import time
-from scipy.interpolate import CubicSpline
+
 
 
 def lerp_color(c1, c2, t):
